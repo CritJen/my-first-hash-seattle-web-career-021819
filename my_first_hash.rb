@@ -1,5 +1,5 @@
 def my_hash
-  your_hash{"color" => pink, "food" => "mac and cheese", "beverage" => "IPA"}
+  your_hash{"color" => "pink", "food" => "mac and cheese", "beverage" => "IPA"}
 
 end
 
